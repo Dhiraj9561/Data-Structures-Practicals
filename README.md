@@ -19,46 +19,7 @@ The purpose of this repository is to practice and understand the **fundamental c
 
 All programs demonstrate basic DSA concepts such as **Arrays, Queues, Linked Lists, and Searching Algorithms**.
 
----
 
-# 📑 Table of Contents
-
-* 📌 About the Project
-* 📂 Repository Structure
-* 📚 Topics Covered
-* 🛠 Technologies Used
-* ▶️ How to Run the Programs
-* 📈 Future Improvements
-* 👨‍💻 Author
-* ⭐ Support
-
----
-
-# 📂 Repository Structure
-
-```
-DSA-Programs
-│
-├── Array.c
-├── Array.cpp
-│
-├── Array2d_matrix.c
-├── Array2d_matrix.cpp
-│
-├── Queue_Array.c
-├── Queue_Array.cpp
-│
-├── Queue_LinkedList.c
-├── Queue_LinkedList.cpp
-│
-├── SingleLinkedList.c
-│
-├── searching.c
-│
-└── README.md
-```
-
----
 
 # 📚 Topics Covered
 
@@ -142,13 +103,4 @@ If you find this repository helpful:
 🍴 Fork this repository
 📢 Share with other students learning Data Structures
 
----
-
-# 📊 Repository Goals
-
-✔ Improve problem-solving skills
-✔ Practice core DSA concepts
-✔ Build a strong programming foundation
-✔ Prepare for coding interviews
-
----
+--
